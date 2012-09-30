@@ -14,3 +14,4 @@ Rodolfo Carvajal 2012 <http://bit.ly/rocarvajprofile>.
 * Omnicppcomplete, using the configuration [here](http://vim.wikia.com/wiki/C%2B%2B_code_completion).
 Modified ctags options using `.ctags` file, don't know if this works fine or is better to use a keyboard shortcut
 to generate tags.
+* Powerline.
