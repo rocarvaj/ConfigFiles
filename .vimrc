@@ -79,3 +79,7 @@ let OmniCpp_DefaultNamespaces = ["std", "_GLIBCXX_STD"]
 " automatically open and close the popup menu / preview window
 au CursorMovedI,InsertLeave * if pumvisible() == 0|silent! pclose|endif
 set completeopt=menuone,menu,longest
+
+set t_Co=256 " Explicitly tell Vim that the terminal supports 256 colors
+set laststatus=2 " Always show the statusline
+let g:Powerline_symbols = 'fancy'
