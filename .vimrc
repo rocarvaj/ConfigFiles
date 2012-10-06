@@ -61,7 +61,7 @@ set pastetoggle=<F2>
 nmap <silent> <leader>/ :nohlsearch<CR>
 
 " For omnicppcomplete
-set nocp
+set nocp "didn't you set this at the beggining already?
 
 " configure tags - add additional tags here or comment out not-used ones
 set tags+=~/.vim/tags/cpp
